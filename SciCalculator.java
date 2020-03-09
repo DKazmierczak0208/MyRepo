@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 
 import java.util.Scanner;
 
-public class SciCalculator {
+public class SciCalculator { // Commit comment
 
     public static void main(String[] args) {
 
